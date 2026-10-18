@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "cheatmod",
+  "version": "1.0.0",
+  "name": "Full Cheat Client",
+  "entrypoints": {
+    "client": [
+      "com.example.mod.CheatMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.4"
+  }
+}
